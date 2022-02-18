@@ -1,0 +1,4 @@
+lib
+*.nlp
+node_modules
+.env
